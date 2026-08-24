@@ -60,13 +60,6 @@ I'm a software engineer with 2.5+ years building things that have to work in the
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moatas19m&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moatas19m&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Currently building at Folio3, and pursuing graduate research in AI × software engineering.</i><br>
+  <i>Currently building at Folio3.</i><br>
   <i>Always happy to talk about backend systems, LLM reliability, or maps. 🌍</i>
 </p>
