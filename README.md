@@ -9,9 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://moatasimhisham.com"><img src="https://img.shields.io/badge/Portfolio-moatasimhisham.com-15AB97?style=flat&logo=cloudflare&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/moatasim-bin-hisham-sayyid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sayyid.moatasim2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://landteller.com"><img src="https://img.shields.io/badge/LandTeller-1F3A5F?style=flat&logo=mapbox&logoColor=white" alt="LandTeller"></a>
+</p>
+
+<p align="center">
+  🖥️ <b><a href="https://moatasimhisham.com">moatasimhisham.com</a></b> — my portfolio has a built-in terminal. Type <code>terminal</code>, then <code>claude</code>, and chat with an AI that knows my work.
 </p>
 
 ---
@@ -61,5 +66,6 @@ I'm a software engineer with 2.5+ years building things that have to work in the
 
 <p align="center">
   <i>Currently building at Folio3.</i><br>
-  <i>Always happy to talk about backend systems, LLM reliability, or maps. 🌍</i>
+  <i>Always happy to talk about backend systems, LLM reliability, or maps. 🌍</i><br>
+  <sub>More at <a href="https://moatasimhisham.com">moatasimhisham.com</a></sub>
 </p>
